@@ -27,9 +27,9 @@
 *   SOFTWARE.
 *
 **********************************************************************************************/
-#include "rlImGui.h"
-
 #include "imgui_impl_raylib.h"
+
+#include "rlImGui.h"
 
 #include "raylib.h"
 #include "rlgl.h"
